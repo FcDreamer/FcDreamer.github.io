@@ -1,0 +1,36 @@
+---
+layout: page
+js:
+  - "/js/magnific-popup.js"
+  - "/js/isotope.pkgd.min.js"
+  - "/js/gallery.js"
+css:
+  - "/css/gallery.css"
+  - "/css/magnific-popup.css"
+---
+
+<!-- Gallery __-->
+<div class="gallery masonry-gallery">
+
+    {% for image in page.images %}
+
+    <figure class="gallery-item">
+        <header class="gallery-icon">
+            <a href="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
+                <img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}">
+            </a>
+        </header>
+
+        <figcaption class="gallery-caption">
+            <div class="entry-summary" id="{{ image.caption }}">
+                <h3>{{image.caption}}</h3>
+                <p>{{image.copyright}}</p>
+            </div>
+        </figcaption>
+    </figure>
+
+    {% endfor %}
+
+</div>
+
+{{ content }}

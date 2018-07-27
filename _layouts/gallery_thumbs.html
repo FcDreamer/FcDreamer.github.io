@@ -1,0 +1,24 @@
+---
+layout: page
+js:
+  - "/js/lightslider.min.js"
+  - "/js/gallery_thumbs.js"
+css:
+  - "/css/lightslider.min.css"
+---
+
+<!-- Gallery with thumbnails -->
+<ul id="lightSlider">
+{% for image in page.images %}
+    <li data-thumb="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}">
+        <!--a href="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}"-->
+                <img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" data-sub-html=".caption">
+                <div class="caption"><h3>{{ image.caption }}</h3>
+                    <p>{{image.copyright}}</p>
+                </div>
+            <!--/a-->
+    </li>
+{% endfor %}
+</ul>
+
+{{ content }}
