@@ -61,6 +61,11 @@ instagram:
   baseURL: "https://www.instagram.com/"
   icon: "fa-instagram"
 
+pinterest: 
+  name: "Pinterest"
+  baseUrl: "https://www.pinterest.com/"
+  icon: "fa-pinterest"
+
 youtube:
   name: "YouTube"
   baseURL: "https://www.youtube.com/"
