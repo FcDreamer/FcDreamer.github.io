@@ -5,15 +5,51 @@ subtitle: "the first works, 2007-2010"
 bigimg: "/img/landscapes/banner.png"
 comments: false
 images:
- - image_path: /img/landscapes/bg1.jpg
-   caption: PM Series one
-   copyright: Oil on Canvas (70x110)
- - image_path: /img/landscapes/bg2.jpg
-   caption: IMAGE TITLE
-   copyright: © photorama
- - image_path: /img/landscapes/bg3.jpg
-   caption: IMAGE TITLE
-   copyright: © photorama
+ - image_path: /img/landscapes/2007_01SI.jpg
+   caption: PM Series 1, 2007
+   subcaption: Charcoal on Paper
+   dim: 70 x 50 cm
+   copyright: © Iamit Segal
+ - image_path: /img/landscapes/2007_02SI.jpg
+   caption: PM Series 3, 2007
+   subcaption: Charcoal on Paper
+   dim: 70 x 50 cm
+   copyright: © Iamit Segal
+ - image_path: /img/landscapes/2008_01aSI.jpg
+   caption: PP3, 2008, 
+   subcaption: Oil on Paper
+   dim: 70 x 50 cm
+   copyright: © Iamit Segal
+ - image_path: /img/landscapes/2008_01bSI.jpg
+   caption: PP4, 2008, 
+   subcaption: Oil on Paper
+   dim: 70 x 50 cm
+   copyright: © Iamit Segal
+ - image_path: /img/landscapes/2008_02SI.jpg
+   caption: Memoria , 2008, 
+   subcaption: Mixed media on Paper
+   dim: 120 x 150 cm
+   copyright: © Iamit Segal 
+ - image_path: /img/landscapes/2008_03SI.jpg
+   caption: Memoria , 2008, 
+   subcaption: Mixed media on Paper
+   dim: 100 x 65 cm
+   copyright: © Iamit Segal
+ - image_path: /img/landscapes/2008_04SI.jpg
+   caption: Going On , 2008, 
+   subcaption: Oil on Canvas
+   dim: 50 x 73 cm
+   copyright: © Iamit Segal  
+ - image_path: /img/landscapes/2008_05SI.jpg
+   caption: Lontananza ('Distance') , 2008, 
+   subcaption: Mixed media on Paper
+   dim: 50 x 73 cm
+   copyright: © Iamit Segal
+ - image_path: /img/landscapes/2008_06SI.jpg
+   caption: Albero ('Tree') , 2008, 
+   subcaption: Mixed media on Paper mounted on canvas
+   dim: 50 x 70 cm
+   copyright: © Iamit Segal 
 ---
 
 I have grown in one place, lived in another and so back and forth. This change of places makes me muse often about my cultural identity and belonging.
