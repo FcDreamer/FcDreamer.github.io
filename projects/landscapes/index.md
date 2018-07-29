@@ -16,39 +16,79 @@ images:
    dim: 70 x 50 cm
    copyright: © Iamit Segal
  - image_path: /img/landscapes/2008_01aSI.jpg
-   caption: PP3, 2008, 
+   caption: PP3, 2008
    subcaption: Oil on Paper
    dim: 70 x 50 cm
    copyright: © Iamit Segal
  - image_path: /img/landscapes/2008_01bSI.jpg
-   caption: PP4, 2008, 
+   caption: PP4, 2008
    subcaption: Oil on Paper
    dim: 70 x 50 cm
    copyright: © Iamit Segal
  - image_path: /img/landscapes/2008_02SI.jpg
-   caption: Memoria , 2008, 
+   caption: Memoria, 2008
    subcaption: Mixed media on Paper
    dim: 120 x 150 cm
    copyright: © Iamit Segal 
  - image_path: /img/landscapes/2008_03SI.jpg
-   caption: Memoria , 2008, 
+   caption: Memoria, 2008
    subcaption: Mixed media on Paper
    dim: 100 x 65 cm
    copyright: © Iamit Segal
  - image_path: /img/landscapes/2008_04SI.jpg
-   caption: Going On , 2008, 
+   caption: Going On, 2008
    subcaption: Oil on Canvas
    dim: 50 x 73 cm
    copyright: © Iamit Segal  
  - image_path: /img/landscapes/2008_05SI.jpg
-   caption: Lontananza ('Distance') , 2008, 
+   caption: Lontananza ('Distance'), 2008 
    subcaption: Mixed media on Paper
    dim: 50 x 73 cm
    copyright: © Iamit Segal
  - image_path: /img/landscapes/2008_06SI.jpg
-   caption: Albero ('Tree') , 2008, 
+   caption: Albero ('Tree'), 2008
    subcaption: Mixed media on Paper mounted on canvas
    dim: 50 x 70 cm
+   copyright: © Iamit Segal 
+ - image_path: /img/landscapes/2008_07SI.jpg
+   caption: Segreti (Process 1) ('Secrets -Process 1'), 2008 
+   subcaption: Oil on Canvas
+   dim: 38 x 60 cm
+   copyright: © Iamit Segal 
+ - image_path: /img/landscapes/2008_08SI.jpg
+   caption: Frost , 2008 
+   subcaption: Oil on Canvas
+   dim: 55 x 160 cm
+   copyright: © Iamit Segal 
+ - image_path: /img/landscapes/2008_09SI.jpg
+   caption: Le Citta Invisibilli - Red City, 2008
+   subcaption: Mixed media on canvas
+   dim: 50 x 110 cm
+   copyright: © Iamit Segal 
+ - image_path: /img/landscapes/2008_10SI.jpg
+   caption: Le Citta Invisibilli - Blue City, 2008 
+   subcaption: Mixed media on canvas
+   dim: 50 x 109 cm
+   copyright: © Iamit Segal
+ - image_path: /img/landscapes/2008_11SI.jpg
+   caption: The Last Earthquaqe, 2008 
+   subcaption: Oil on Canvas
+   dim: 70 x 70 cm
+   copyright: © Iamit Segal 
+ - image_path: /img/landscapes/2008_12SI.jpg
+   caption: One and T(h)ree, 2008 
+   subcaption: Oil on Canvas
+   dim: 52 x 86 cm
+   copyright: © Iamit Segal 
+ - image_path: /img/landscapes/2008_13SI.jpg
+   caption: Chinotto, 2008 
+   subcaption: Oil on Canvas
+   dim: 120 x 120 cm
+   copyright: © Iamit Segal
+ - image_path: /img/landscapes/2008_13SI.jpg
+   caption: Il Process ('The Process'), 2008 
+   subcaption: Oil on Canvas
+   dim: 140 x 225 cm
    copyright: © Iamit Segal 
 ---
 
