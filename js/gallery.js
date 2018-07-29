@@ -7,7 +7,10 @@ $(document).ready(function($) {
 
       // set masonry layout
       $(element).isotope({
-        masonry: { columnWidth: $(element).find(".gallery-item")[0] },
+        masonry: {
+          columnWidth: $(element).find(".gallery-item")[0],
+          fitWidth: true
+        },
         itemSelector: ".gallery-item"
       });
       $(element).isotope("layout");
