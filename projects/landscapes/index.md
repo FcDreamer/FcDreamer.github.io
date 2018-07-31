@@ -56,7 +56,7 @@ images:
    dim: 38 x 60 cm
    copyright: © Iamit Segal 
  - image_path: /img/landscapes/2008_08SI.jpg
-   caption: Frost , 2008 
+   caption: Frost, 2008 
    subcaption: Oil on Canvas
    dim: 55 x 160 cm
    copyright: © Iamit Segal 
@@ -86,7 +86,7 @@ images:
    dim: 120 x 120 cm
    copyright: © Iamit Segal
  - image_path: /img/landscapes/2008_14SI.jpg
-   caption: Il Process ('The Process'), 2008 
+   caption: Il Processo ('The Process'), 2008 
    subcaption: Oil on Canvas
    dim: 140 x 225 cm
    copyright: © Iamit Segal 
@@ -130,7 +130,7 @@ images:
    subcaption: Acrylic glass and handmade paper
    dim: 40 x 40 x 15 cm
    copyright: © Iamit Segal
- - image_path: /img/landscapes/2009_09SI.jpg
+ - image_path: /img/landscapes/2009_09aSI.jpg
    caption: Parzialmente Nuvoloso (Partly Cloudy), 2009
    subcaption: Handmade paper on gauze
    dim: 185 x 145 cm
