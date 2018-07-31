@@ -6,36 +6,13 @@ $(document).ready(function($) {
       //var $masonry_items = $(element).find(".gallery-item");
 
       // set masonry layout
-      $(element).isotope({
+      var $grid = $(element).isotope({
         masonry: { columnWidth: $(element).find(".gallery-item")[0] },
         itemSelector: ".gallery-item"
       });
-      $(element).isotope("layout");
-
-      /* filtering
-      jQuery("#gallery-filter li a").on("click", function() {
-        jQuery("#gallery-filter li a").removeClass("active");
-        jQuery(this).addClass("active");
-        var selector = jQuery(this).attr("data-filter");
-        $masonry_gallery.isotope({ filter: selector });
-        return false;
+      $grid.imagesLoaded().progress(function() {
+        $grid.isotope("layout");
       });
-
-      // changing layout
-      jQuery("#grid-changer li a").on("click", function() {
-        jQuery("#grid-changer li a").removeClass("active");
-        jQuery(this).toggleClass("active");
-
-        $masonry_items.removeClass("col-3");
-        $masonry_items.removeClass("col-4");
-        $masonry_items.removeClass("col-5");
-        $masonry_items.toggleClass(
-          jQuery(this)
-            .closest("li")
-            .attr("class")
-        );
-        $masonry_gallery.isotope("layout");
-      });*/
     });
   }
 
@@ -56,6 +33,5 @@ $(document).ready(function($) {
         );
       }
     }
-    // other options
   });
 });
