@@ -57,7 +57,7 @@ images:
    dim: 38 x 60 cm
    copyright: © Iamit Segal 
  - image_path: /img/landscapes/2008_08SI.jpg
-   caption: Frost , 2008 
+   caption: Frost, 2008 
    subcaption: Oil on Canvas
    dim: 55 x 160 cm
    copyright: © Iamit Segal 
