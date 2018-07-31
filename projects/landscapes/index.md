@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: gallery_thumbs
 title: "Landscapes"
 subtitle: "the first works, 2007-2010"
 bigimg: "/img/landscapes/banner.png"
@@ -15,6 +15,7 @@ images:
    subcaption: Charcoal on Paper
    dim: 70 x 50 cm
    copyright: © Iamit Segal
+
  - image_path: /img/landscapes/2008_01aSI.jpg
    caption: PP3, 2008
    subcaption: Oil on Paper
@@ -86,10 +87,11 @@ images:
    dim: 120 x 120 cm
    copyright: © Iamit Segal
  - image_path: /img/landscapes/2008_14SI.jpg
-   caption: Il Process ('The Process'), 2008 
+   caption: Il Processo ('The Process'), 2008 
    subcaption: Oil on Canvas
    dim: 140 x 225 cm
    copyright: © Iamit Segal 
+
  - image_path: /img/landscapes/2009_01aSI.jpg
    caption: Rainy City, 2009
    subcaption: Oil on Canvas
@@ -130,7 +132,7 @@ images:
    subcaption: Acrylic glass and handmade paper
    dim: 40 x 40 x 15 cm
    copyright: © Iamit Segal
- - image_path: /img/landscapes/2009_09SI.jpg
+ - image_path: /img/landscapes/2009_09aSI.jpg
    caption: Parzialmente Nuvoloso (Partly Cloudy), 2009
    subcaption: Handmade paper on gauze
    dim: 185 x 145 cm
@@ -213,8 +215,7 @@ I have grown in one place, lived in another and so back and forth. This change o
 
 Initially, i explored this theme through oil paintings and drawings of Landscapes out of memories and internal visions, working to figure out my Homeland and ideal place. The first paintings were about traveling between places through portals. The paintings express mixed impressions of the views in the present place I traveled to, to study, with longing to the views of home and other times. The Paintings included clouds or fog, city scape vs. natural scape and trees.Those were also my first paintings in bigger format, as till then, i was used to small scale book illustrations.
 
-The transition between the landscape painting to the textual monochromatic work of today,
-occurred simultaneously with two constraints:
+The transition between the landscape painting to the textual monochromatic work of today, occurred simultaneously with two constraints:
 
 I had to cease using oil paints and acrylic paints didn’t give me the same satisfaction, and I had taken two different courses where I was asked to do self portraits (a theme far from my comfort zone).
 So naturally, questions about identity rose up and took a more linguistic turn.
