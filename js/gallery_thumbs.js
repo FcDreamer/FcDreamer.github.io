@@ -7,10 +7,11 @@ $(document).ready(function() {
     useCSS: true,
     cssEasing: "ease", //'cubic-bezier(0.25, 0, 0.25, 1)',//
     easing: "linear", //'for jquery animation',////
-
+    adaptiveHeight: true,
+    
     speed: 800, //ms'
     auto: true,
-    gallery: false,
+    gallery: true,
     pauseOnHover: true,
     loop: true,
     slideEndAnimation: true,
