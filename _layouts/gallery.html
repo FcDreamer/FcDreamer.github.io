@@ -17,7 +17,7 @@ css:
 
     <figure class="gallery-item">
         <header class="gallery-icon">
-            <a href="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" class="popup" title="{{ image.caption }}" data-caption="{{ image.subcaption }} {{ image.copyright }}">
+            <a href="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" class="popup" title="{{ image.caption }}" data-caption="{{ image.subcaption }} {{ image.dim }} {{ image.copyright }}">
                 <img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}">
             </a>
         </header>
@@ -27,7 +27,7 @@ css:
                 <h3>{{image.caption}}</h3>
                 <p>{{image.subcaption}}</p>
                 <p>{{image.dim}}</p>
-                <p>{© Iamit Segal 2007-2018}</p>
+                <p> © Iamit Segal </p>
             </div>
         </figcaption>
     </figure>

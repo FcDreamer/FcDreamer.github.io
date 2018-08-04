@@ -5,15 +5,40 @@ subtitle: "2015 Münster, Germany"
 bigimg: "/img/dialogue/banner.png"
 comments: false
 images:
- - image_path: /img/dialogue/bg1.jpg
-   caption: PM Series one
-   copyright: Oil on Canvas (70x110)
- - image_path: /img/dialogue/bg2.jpg
-   caption: IMAGE TITLE
-   copyright: © photorama
- - image_path: /img/dialogue/bg3.jpg
-   caption: IMAGE TITLE
-   copyright: © photorama
+ - image_path: /img/dialogue/2015_01IS.jpg
+   caption: MaseMatte installation View A+B
+   copyright: Photo by Ralf Emmerich
+ - image_path: /img/dialogue/2015_02IS.jpg
+   caption: MaseMatte installation A
+   copyright: Photo by Ralf Emmerich
+ - image_path: /img/dialogue/2015_03IS.jpg
+   caption: MaseMatte installation A - Detail
+   copyright: Photo by Ralf Emmerich
+ - image_path: /img/dialogue/2015_04IS.jpg
+   caption: MaseMatte installation B
+   copyright: Photo by Ralf Emmerich
+ - image_path: /img/dialogue/2015_05IS.jpg
+   caption: MaseMatte installation B
+   copyright: Photo by Ralf Emmerich
+ - image_path: /img/dialogue/2015_06IS.jpg
+   caption: MaseMatte installation C - Overall view
+   copyright: Photo by Ralf Emmerich
+ - image_path: /img/dialogue/2015_07IS.jpg
+   caption: MaseMatte installation C
+   copyright: Photo by Ralf Emmerich 
+ - image_path: /img/dialogue/2015_08IS.jpg
+   caption: MaseMatte installation C
+   copyright: Photo by Ralf Emmerich 
+ - image_path: /img/dialogue/2015_09IS.jpg
+   caption: MaseMatte installation C
+   copyright: Photo by Ralf Emmerich 
+ - image_path: /img/dialogue/2015_10IS.jpg
+   caption: MaseMatte installation C
+   copyright: Photo by Ralf Emmerich 
+ - image_path: /img/dialogue/2015_11IS.jpg
+   caption: MaseMatte installation C
+   copyright: Photo by Ralf Emmerich 
+  
 ---
 
 As a part of a twin cities project, i was invited to participate in Traces of Dialogue symposium / artist residency.
