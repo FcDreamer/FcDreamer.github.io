@@ -2,7 +2,7 @@
 layout: gallery
 title: "Traces of Dialogue Artist Residency and symposium"
 subtitle: "2015 Münster, Germany"
-bigimg: "/img/dialogue/banner.png"
+bigimg: "/img/dialogue/2015_05IS.jpg"
 comments: false
 images:
  - image_path: /img/dialogue/2015_01IS.jpg
@@ -35,9 +35,7 @@ images:
  - image_path: /img/dialogue/2015_10IS.jpg
    caption: MaseMatte installation C
    copyright: Photo by Ralf Emmerich 
- - image_path: /img/dialogue/2015_11IS.jpg
-   caption: MaseMatte installation C
-   copyright: Photo by Ralf Emmerich 
+  
   
 ---
 
