@@ -47,22 +47,22 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#000000"
-navbar-text-col: "#D6D6D6"
-navbar-children-col: "#F5F5F5"
+navbar-col: "#2f2e2e"
+navbar-text-col: "#FFF"
+navbar-children-col: "#a0a09f"
 page-col: "#FFFFFF"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+link-col: "#8B0000"
+hover-col: "#000000"
+footer-col: "#f3f3f3"
+footer-text-col: "#a0a09f"
+footer-link-col: "#2f2e2e"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "/img/ironpattern.png"
+# navbar-img: "/img/ironpattern.png"
 # footer-img: "/img/bgimage.png"
-page-img: "/img/bgimage.png"
+# page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
@@ -78,8 +78,8 @@ author:
 social-network-links:
   rss: true
   email: "segal.iamit@gmail.com"
-  facebook: iamitArt
-  pinterest: iamitsegal
+  facebook: "https://www.facebook.com/iamitArt/"
+  pinterest: "https://www.pinterest.com/Petcisely/"
 #  github: daattali
 #  twitter: daattali
 #  reddit: yourname
@@ -88,10 +88,10 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: iamit_inthestudio
+  instagram: "https://www.instagram.com/petcisely_iamit/"
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+#  telephone: yourphone
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
