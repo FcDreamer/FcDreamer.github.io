@@ -2,10 +2,10 @@
 layout: gallery
 title: "All My Secrets, 2010-2014"
 #subtitle: ""
-bigimg: "/img/AllMySecrets/banner.png"
+bigimg: "/img/ecrets/banner.png"
 comments: false
 images:
- - image_path: /img/AllMySecrets/.jpg
+ - image_path: /img/secrets/.jpg
    caption: 
    subcaption: 
    dim: 70 x 50 cm
