@@ -1,5 +1,4 @@
 /* Galleries */
-<<<<<<< HEAD
 .gallery { clear: both; width: 100%; margin: 0 0 2em 0; }
 .gallery::after { content:""; display: block; clear: both; }
 .gallery-item { position: relative; display: block; width: auto; }
@@ -109,93 +108,6 @@ body.gallerythumbsrevealed .position-absolute { -webkit-transform: translate3d(0
 #gallerypuntiks a { display: inline-block; width: 10px; height: 10px; border: 2px solid #999; border-radius: 5px; font-size: 0; margin: .5em; clear: both; background: #F7F6F5; padding: .5em;  -webkit-transition: all .4s ease; -moz-transition: all .4s ease; -ms-transition: all .4s ease; -o-transition: all .4s ease; transition: all .4s ease; }
 #gallerypuntiks a:hover { border-color: #EA8E00; }
 #gallerypuntiks a.activeSlide { border-color: #222; }
-=======
-.gallery {
-  clear: both;
-  width: 100%;
-  margin: 0 0 2em 0;
-}
-.gallery::after {
-  content: "";
-  display: block;
-  clear: both;
-}
-.gallery-item {
-  position: relative;
-  display: block;
-  width: auto;
-}
-.gallery-icon {
-  position: relative;
-  z-index: 9;
-  -webkit-transition: opacity 0.2s ease;
-  -moz-transition: opacity 0.2s ease;
-  -ms-transition: opacity 0.2s ease;
-  -o-transition: opacity 0.2s ease;
-  transition: opacity 0.2s ease;
-}
-.gallery-icon a {
-  display: block;
-  width: 100%;
-  height: 100%;
-  position: relative;
-  z-index: 9;
-}
-.gallery-icon img {
-  max-width: 100%;
-  height: auto;
-  margin: 0px;
-}
-.gallery-caption {
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  width: 100%;
-  z-index: 10;
-  pointer-events: none;
-}
-.gallery-caption .entry-summary {
-  display: inline-block;
-  position: absolute;
-  width: 100%;
-  bottom: 0;
-  color: #f7f6f5;
-  opacity: 0;
-  -webkit-transition: all 0.2s ease;
-  -moz-transition: all 0.2s ease;
-  -ms-transition: all 0.2s ease;
-  -o-transition: all 0.2s ease;
-  transition: all 0.2s ease;
-}
-.gallery-item:hover .gallery-caption .entry-summary {
-  opacity: 1;
-}
-.gallery-caption h3,
-.gallery-caption p {
-  -webkit-transition: -webkit-transform 0.35s;
-  transition: transform 0.35s;
-  padding: 0;
-  margin: 0;
-}
-.gallery-item:hover .gallery-caption h3,
-.gallery-item:hover .gallery-caption p {
-  -webkit-transform: translate3d(0, 0, 0);
-  transform: translate3d(0, 0, 0);
-}
-.gallery-caption h3 {
-  font-weight: bold;
-  text-transform: uppercase;
-  font-size: 0.9em;
-  letter-spacing: 0.05em;
-}
-.gallery-caption .entry-summary > p {
-  font-family: Times, serif;
-  font-style: italic;
-  font-size: 0.8em;
-  opacity: 0.8;
-}
->>>>>>> 35f08d0302f1ccf607c41cefee773db3e3576df5
 
 .masonry-gallery.gallery {
   z-index: 0;
