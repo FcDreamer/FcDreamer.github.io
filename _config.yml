@@ -43,10 +43,6 @@ navbar-links:
 # then specify the following parameter
 # title-img: /path/to/image
 
-# --- Collections --- #
-
-collections:
-- Secrets
 
 # --- Background colour/image options --- #
 
