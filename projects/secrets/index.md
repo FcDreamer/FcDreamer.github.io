@@ -17,7 +17,7 @@ images:
    caption: Black Box, 2011
    subcaption: Printed film
    dim: 6.3 X 16.3 X 4.4 cm
- - image_path: /img/secrets/IK_2011_05IS.jpg
+ - image_path: /img/secrets/IK_2012_05IS.jpg
    caption: Get It, 2011
    subcaption: Printed paper and engraved acrylic glass
    dim: 13 X 13 X 3.5 cm
@@ -41,7 +41,7 @@ images:
    caption: Frame the Error (the Pinguin Boxes), 2013
    subcaption: Acrylic on Pannel
    dim: installation of nine boxes, 70 x 70 cm
- - image_path: /img/secrets/2d_2013_02IS.jpg
+ - image_path: /img/secrets/P_2013_06IS.jpg
    caption: Frame the Error (the Pinguin Boxes) No' 1, 2013
    subcaption: Printed plastic, rubber, handmade wood frame
    dim: 15 x 15 x 6 cm each, Nine piece installation
