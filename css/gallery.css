@@ -1,5 +1,5 @@
 /* Galleries */
-.gallery { clear: both; width: 100%; margin: 0 0 2em 0; }
+.gallery { clear: both; width: 100%; margin: 0 0 1em 0; }
 .gallery::after { content:""; display: block; clear: both; }
 .gallery-item { position: relative; display: block; width: auto; }
 .gallery-icon { position: relative; z-index: 9;  -webkit-transition: opacity .2s ease; -moz-transition: opacity .2s ease; -ms-transition: opacity .2s ease; -o-transition: opacity .2s ease; transition: opacity .2s ease; }

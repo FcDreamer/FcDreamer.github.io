@@ -2,7 +2,7 @@
 layout: gallery
 title: "Hope, Fear, Time and The Act of Creation"
 subtitle: " 2013 - In progress"
-bigimg: ""
+bigimg: "/img/hftc/BG01IS.jpg"
 comments: false
 images:
  - image_path: /img/hftc/2017_01IS.jpg
@@ -45,15 +45,16 @@ images:
    caption: About Fear, 2013
    subcaption: Acrylic and ink on paper
    dim: 48 X 33 cm
- - image_path: /img/hftc/2013_10IS.jpg
+ - image_path: /img/hftc/2013_11IS.jpg
    caption: A Not-so-Perfect Act of Creation, 2013
    subcaption: Wood, film and acrylic
    dim: 17 X 24 X 7 cm
- - image_path: /img/hftc/2013_11IS.jpg
+ - image_path: /img/hftc/2013_12IS.jpg
    caption: A Not-so-Perfect Act of Creation, 2013
    subcaption: side view
    dim: 17 X 24 X 7 cm
 
 ---
 
-Exploring the vast theme of fear, and through the famous procrastination, I have arrived to muse about time, the now and the process itself of creation. I Consider the process, or actually, the voyage through the creative process as the sought after outcome. The actual final result of the art itself (the “Art artefact”), is just a remnant of the process, a certain point in time in which I have frozen the process and presented the one artefact as the summery of that period.
+Exploring the vast theme of fear, and through the famous procrastination, I have arrived to muse about time, the now and the process itself of creation. 
+I Consider the process, or actually, the voyage through the creative process, as the sought after outcome. The final result of the art itself (the 'Art artefact'), is just a remnant of the process, a certain point in time in which I have frozen the process and presented the one artefact as the summery of that period.
