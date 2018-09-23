@@ -21,15 +21,15 @@ images:
    caption: Get It, 2011
    subcaption: Printed paper and engraved acrylic glass
    dim: 13 X 13 X 3.5 cm
- - image_path: /img/secrets/Am_06_2012IS.jpg
+ - image_path: /img/secrets/AM_06_2012IS.jpg
    caption: All My Secrets (Connecting Dots), 2012
    subcaption: Printed film and acrylic glass
    dim: 12 x 12 x 12 cm
- - image_path: /img/secrets/Am_2013_02IS.jpg
+ - image_path: /img/secrets/AM_2013_02IS.jpg
    caption: Microcosm + All My Secrets trio, 2011 - 2013
    subcaption: Printed paper, mirror, acrylic glass
    dim: 30 x 30 x 30 cm (Microcosm)
- - image_path: /img/secrets/2d_2013_02IS.jpg
+ - image_path: /img/secrets/2D_2013_02IS.jpg
    caption: All My Secrets 2D-Back from Black, 2013
    subcaption: Acrylic on Pannel
    dim: 70 x 50 cm
