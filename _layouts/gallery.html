@@ -17,13 +17,13 @@ css:
 
     <figure class="gallery-item">
         <header class="gallery-icon">
-            <a href="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" class="popup" title="{{ image.caption }}" data-caption="{{ image.subcaption }} {{ image.dim }} {{ image.copyright }}">
-                <img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}">
+            <a class="popup" href="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" title="{{ image.caption }}" data-caption="{{ image.subcaption }} {{ image.dim }} {{ image.copyright }}">
+                <img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path | replace: "/img", "/thumb" }}">
             </a>
         </header>
 
         <figcaption class="gallery-caption">
-            <div class="entry-summary" id="{{ image.caption }}">
+            <div class="entry-summary">
                 <h3>{{image.caption}}</h3>
                 <p>{{image.subcaption}}</p>
                 <p>{{image.dim}}</p>
